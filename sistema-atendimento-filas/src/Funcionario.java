@@ -1,4 +1,3 @@
-// src/Funcionario.java
 public class Funcionario {
     private int id;
 
