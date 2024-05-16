@@ -1,4 +1,3 @@
-// src/Cliente.java
 import java.util.Random;
 
 public class Cliente {
